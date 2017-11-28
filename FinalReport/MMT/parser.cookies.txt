@@ -1,0 +1,12 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.linkedin.com	TRUE	/	FALSE	1536143266	bcookie	"v=2&9bc31214-5bb3-40a2-8359-786fbb8794f6"
+.linkedin.com	TRUE	/	FALSE	1480805417	liap	true
+.linkedin.com	TRUE	/	FALSE	1473091789	lidc	"b=TB66:g=365:u=28:i=1473029418:t=1473091789:s=AQG_hfNQu1R-Qz7MXY8y0w_MkgUqPEmb"
+.www.linkedin.com	TRUE	/	TRUE	1480805541	JSESSIONID	"ajax:0090405695783905105"
+.www.linkedin.com	TRUE	/	TRUE	1536143266	bscookie	"v=1&2016090422501329a04334-312a-4ee9-81c5-a255dfac9929AQGwxCMI2pLAMJwdkCNhveDHUywKrpvH"
+.www.linkedin.com	TRUE	/	TRUE	1504565417	li_at	AQEDAQv2PXYCqvZgAAABVvdlKjUAAAFW99MHNU4AAs_4jfc6yRpjWv41umA2C52zGWDfin2CCPlZXzC-vT1lq0QxCvetc8wh6bjxpT7X9faggQCa0Tvmm_ZZptr8bjO6MtiKYeYIon97pzzgQpl7Xe0Z
+.www.linkedin.com	TRUE	/	FALSE	1480805541	sl	"v=1&aXblm"
+www.linkedin.com	FALSE	/	FALSE	1536101541	visit	"v=1&G"

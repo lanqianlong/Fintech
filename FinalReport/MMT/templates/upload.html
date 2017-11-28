@@ -1,0 +1,8 @@
+<!doctype html>
+<title>WTForms Sample</title>
+<h1>Attachment</h1>
+<form method="POST" action="{{ url_for('upload') }}" enctype="multipart/form-data">
+    {{ form.hidden_tag() }}
+    {{ form.attach.label }} {{ form.attach }}
+    <input type="submit" value="Submit">
+</form>

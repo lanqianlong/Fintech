@@ -1,0 +1,9 @@
+<!doctype html>
+<title>WTForms Sample</title>
+<h1>Signup</h1>
+<form method="POST" action="{{ url_for('signup') }}">
+    {{ form.hidden_tag() }}
+    {{ form.username.label }}: {{ form.username }}
+    {{ form.recaptcha }}
+    <input type="submit" value="Submit">
+</form>
